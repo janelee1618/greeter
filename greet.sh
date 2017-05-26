@@ -1,3 +1,3 @@
 
-DATE 
+date -u 
 echo "hello $USER"
